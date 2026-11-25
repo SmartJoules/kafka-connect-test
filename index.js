@@ -9,7 +9,7 @@ async function main() {
     ssl: true,
     sasl: {
       mechanism: "scram-sha-512", // scram-sha-256 or scram-sha-512
-      username: "AKIA4Y67PIL2VRMBPKFE",
+      username: "ROTATED-SEE-ISSUE",
       password: "yHPpgajJuUWLx7kKggVSnbTqAC8yzYp48U6Y1Ldq",
     },
   });
